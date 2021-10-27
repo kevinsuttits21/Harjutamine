@@ -2,3 +2,4 @@ GitHub on veebisait ja pilvepõhine teenus, mis aitab arendajatel oma koodi salv
 Inimesed, kes tegelevad IT-ga näiteks tarkvaraarendajad.
 Githubi saad kasutada om arvutis või telefonis. Link veebilehele on https://github.com/.
 Edaspidi saaksin kasutada GitHubi oma isiklikus arvutis või kooliarvutis.
+GitHub Inc oli asutatud aastal 2008 ja alates sellest aastast on GitHubi teenus on olnud kättesaadav. Asutajate nimed on Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon. 2007 alustati GitHubi arendamisega.
