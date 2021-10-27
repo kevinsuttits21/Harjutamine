@@ -1,0 +1,2 @@
+GitHub on veebisait ja pilvepõhine teenus, mis aitab arendajatel oma koodi salvestada ja hallata, samuti koodi muudatusi jälgida ja juhtida.
+Inimesed, kes tegelevad IT-ga näiteks tarkvaraarendajad.
